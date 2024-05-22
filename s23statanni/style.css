@@ -1,4 +1,6 @@
 :root {
+    /*:root elements atbild par dokumenta pamata saknes elementa noformējumu. 
+    Pamata saknes elements vienmēr ir html elements un root izmantojums nav jāraksta*/
 --text-main: #212121;
 --text-blue: #6898B9;
 --text-light-green:#88a553;
